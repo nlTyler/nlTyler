@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Tyler and I'm a UCI trained computer scientist intrested in all things Python & Data Science!
+
+- 🔭 I’m currently working on ([COMPSCI_271P_Group_Project](https://github.com/AnhJoe/COMPSCI_271P_Group_Project.git)), a Reinforcement Learning project implmenting an intelligent autonomous agent operating in an virtual 3D world.
+- 🌱 I’m currently learning about AI Development, Databases, and Applied Statistics as part of my Master's in Data Science.
+- 📫 How to reach me: tcrosbie44@gmail.com
+- ⚡ Fun fact: I'm an avid Aerial Photographer.
+
 <!--
 **nlTyler/nlTyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
