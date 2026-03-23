@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name's Tyler and I'm a UCI trained computer scientist intrested in all things Python & Data Science!
+My name's Tyler and I'm a UCI trained computer scientist working on various projects in Data Analytics and AI/ML devolpment!
 
 - 🔭 I’m currently working on ([COMPSCI_271P_Group_Project](https://github.com/AnhJoe/COMPSCI_271P_Group_Project.git)), a Reinforcement Learning project implmenting an intelligent autonomous agent operating in an virtual 3D world.
 - 🌱 I’m currently learning about AI Development, Databases, and Applied Statistics as part of my Master's in Data Science.
